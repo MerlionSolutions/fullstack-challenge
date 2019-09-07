@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cubo.network/assets/images/cubo.svg" width="200">
+  <img src="https://merlionsolutions.com/wp-content/uploads/2018/12/2018-12-25_16-29-48.png" width="200">
 </p>
 
 # { "developer": "fullstack" }
@@ -9,7 +9,7 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 ## Rules
 
 1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
-2. Send the link to dev@cubo.network;
+2. Send the link to info@merlionsolutions.com;
 3. We use Angular and Node.js with Serverless, but you can feel free to choose other technologies;
 
 ## Challenge
@@ -39,4 +39,4 @@ Feel free to make improviments like new funcionalities, visual optimizations, AP
 
 ## Questions?
 
-Send your questions directly to dev@cubo.network or opening a issue.
+Send your questions directly to info@merlionsolutions.com or opening a issue.
