@@ -10,7 +10,7 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 
 1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
 2. Send the link to info@merlionsolutions.com;
-3. We use Angular and Node.js with Serverless, but you can feel free to choose other technologies;
+3. We use ReactJS (NextJS) and Node.js with Postgres (Sequalize), but you can feel free to choose other technologies;
 
 ## Challenge
 
