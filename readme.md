@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://merlionsolutions.com/wp-content/uploads/2018/12/2018-12-25_16-29-48.png" width="200">
+  <img src="https://d9hhrg4mnvzow.cloudfront.net/www.enotarylog.com/f704b0b5-logo-02_084026000000000000001.png" width="200">
 </p>
 
 # { "developer": "fullstack" }
@@ -39,4 +39,4 @@ Feel free to make improviments like new funcionalities, visual optimizations, AP
 
 ## Questions?
 
-Send your questions directly to info@merlionsolutions.com or opening a issue.
+Send your questions directly to joe@eNotaryLog.com or opening a issue.
