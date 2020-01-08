@@ -9,7 +9,7 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 ## Rules
 
 1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
-2. Send the link to info@merlionsolutions.com;
+2. Send the link to joe@enotarylog.com;
 3. We use ReactJS (NextJS) and Node.js with Postgres (Sequalize), but you can feel free to choose other technologies;
 
 ## Challenge
